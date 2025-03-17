@@ -1,0 +1,8 @@
+F:\c#\CompareContent\bin\Debug\CompareContent.exe.config
+F:\c#\CompareContent\bin\Debug\CompareContent.exe
+F:\c#\CompareContent\bin\Debug\CompareContent.pdb
+F:\c#\CompareContent\obj\Debug\CompareContent.csproj.AssemblyReference.cache
+F:\c#\CompareContent\obj\Debug\CompareContent.csproj.SuggestedBindingRedirects.cache
+F:\c#\CompareContent\obj\Debug\CompareContent.csproj.CoreCompileInputs.cache
+F:\c#\CompareContent\obj\Debug\CompareContent.exe
+F:\c#\CompareContent\obj\Debug\CompareContent.pdb
